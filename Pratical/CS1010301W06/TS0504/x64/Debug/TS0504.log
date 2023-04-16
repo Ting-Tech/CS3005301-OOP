@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\allen\Desktop\CS1010301W06\TS0504\main.cpp(44,7): warning C4267: '引數': 將 'size_t' 轉換為 'unsigned char'，資料可能遺失
+C:\Users\allen\Desktop\CS1010301W06\TS0504\main.cpp(62,7): warning C4267: '引數': 將 'size_t' 轉換為 'unsigned char'，資料可能遺失
+C:\Users\allen\Desktop\CS1010301W06\TS0504\main.cpp(97,6): warning C4267: '引數': 將 'size_t' 轉換為 'unsigned char'，資料可能遺失
+  TS0504.vcxproj -> C:\Users\allen\Desktop\CS1010301W06\x64\Debug\TS0504.exe

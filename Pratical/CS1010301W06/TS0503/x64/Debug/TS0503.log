@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\allen\Desktop\CS1010301W06\TS0503\main.cpp(21,41): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\allen\Desktop\CS1010301W06\TS0503\main.cpp(30,39): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\allen\Desktop\CS1010301W06\TS0503\main.cpp(39,33): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  TS0503.vcxproj -> C:\Users\allen\Desktop\CS1010301W06\x64\Debug\TS0503.exe

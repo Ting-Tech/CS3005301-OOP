@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\allen\OneDrive - cishrobotics\台科資料\物件導向程式設計\CS1010301W03\TS0204\main.cpp(77,32): warning C4267: '=': 將 'size_t' 轉換為 '_Ty'，資料可能遺失
+          with
+          [
+              _Ty=int
+          ]
+  TS0204.vcxproj -> C:\Users\allen\OneDrive - cishrobotics\台科資料\物件導向程式設計\CS1010301W03\x64\Debug\TS0204.exe

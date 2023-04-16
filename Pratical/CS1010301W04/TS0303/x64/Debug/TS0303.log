@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\allen\Desktop\CS1010301W04\TS0303\main.cpp(24,27): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\allen\Desktop\CS1010301W04\TS0303\main.cpp(31,27): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\allen\Desktop\CS1010301W04\TS0303\main.cpp(42,47): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\allen\Desktop\CS1010301W04\TS0303\main.cpp(55,29): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  TS0303.vcxproj -> C:\Users\allen\Desktop\CS1010301W04\x64\Debug\TS0303.exe

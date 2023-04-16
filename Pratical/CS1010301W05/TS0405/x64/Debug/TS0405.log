@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\allen\Desktop\CS1010301W05\TS0405\main.cpp(27,16): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\allen\Desktop\CS1010301W05\TS0405\main.cpp(29,51): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+  TS0405.vcxproj -> C:\Users\allen\Desktop\CS1010301W05\x64\Debug\TS0405.exe
