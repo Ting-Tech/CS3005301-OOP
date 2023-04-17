@@ -1,3 +1,10 @@
+/*
+Author: ¾G°·§Ê(B11130225@mail.ntust.edu.tw)
+Date: April 14, 2023
+Last Update: April 17, 2023
+Describition: Implement the word game.
+*/
+
 //FormWord-inputmain1.cpp
 #include"Form.h"
 

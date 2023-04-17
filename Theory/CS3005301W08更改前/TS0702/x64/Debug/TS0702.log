@@ -1,0 +1,6 @@
+﻿  Atoi.cpp
+C:\Users\allen\Desktop\CS3005301W08\TS0702\Atoi.cpp(22,36): warning C4267: 'return': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\allen\Desktop\CS3005301W08\TS0702\Atoi.cpp(24,32): warning C4267: 'return': 將 'size_t' 轉換為 'int'，資料可能遺失
+  main.cpp
+  正在產生程式碼...
+  TS0702.vcxproj -> C:\Users\allen\Desktop\CS3005301W08\x64\Debug\TS0702.exe

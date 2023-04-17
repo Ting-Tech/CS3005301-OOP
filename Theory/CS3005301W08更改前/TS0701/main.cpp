@@ -1,0 +1,20 @@
+/*
+Author: ¾G°·§Ê(B11130225@mail.ntust.edu.tw)
+Date: April 14, 2023
+Last Update: April 17, 2023
+Describition: Implement the word game.
+*/
+
+//FormWord-inputmain1.cpp
+#include"Form.h"
+
+int main()
+{
+	Form form1;
+	form1.SetInputWord("SWIMMING"); // set input
+	form1.ProcessInputWord(); // process input
+	form1.SetFileName("words.txt"); // set file name
+	form1.Load_CompareWord(); // read-in data and compare
+	form1.PrintFoundWords(); // print answers
+	return 0;
+}

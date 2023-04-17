@@ -1,3 +1,10 @@
+/*
+Author: ¾G°·§Ê(B11130225@mail.ntust.edu.tw)
+Date: April 14, 2023
+Last Update: April 17, 2023
+Describition: Implement the word game.
+*/
+
 #include"Form.h"
 
 Form::Form()
@@ -31,7 +38,7 @@ void Form::Load_CompareWord()
 {
 	this->validWords.clear();
 	this->in.open(this->fileWordName);
-	while(!this->in.eof())
+	while (!this->in.eof())
 	{
 		string fileWord;
 		map<char, int> inputWordMap;
