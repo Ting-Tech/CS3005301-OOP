@@ -9,5 +9,4 @@ public:
 	PrimeNumber operator++(int);
 	PrimeNumber & operator--();
 	PrimeNumber operator--(int);
-
 };

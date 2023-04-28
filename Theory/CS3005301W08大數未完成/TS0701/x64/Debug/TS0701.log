@@ -1,0 +1,6 @@
+﻿main.obj : error LNK2019: 在函式 "public: void __cdecl Form::SetInputWord(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?SetInputWord@Form@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)main 中參考了無法解析的外部符號
+main.obj : error LNK2019: 在函式 "public: void __cdecl Form::ProcessInputWord(void)" (?ProcessInputWord@Form@@QEAAXXZ)main 中參考了無法解析的外部符號
+main.obj : error LNK2019: 在函式 "public: void __cdecl Form::SetFileName(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?SetFileName@Form@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)main 中參考了無法解析的外部符號
+main.obj : error LNK2019: 在函式 "public: void __cdecl Form::Load_CompareWord(void)" (?Load_CompareWord@Form@@QEAAXXZ)main 中參考了無法解析的外部符號
+main.obj : error LNK2019: 在函式 "public: void __cdecl Form::PrintFoundWords(void)" (?PrintFoundWords@Form@@QEAAXXZ)main 中參考了無法解析的外部符號
+C:\Users\allen\Desktop\新增資料夾\CS3005301W08\x64\Debug\TS0701.exe : fatal error LNK1120: 5 個無法解析的外部符號

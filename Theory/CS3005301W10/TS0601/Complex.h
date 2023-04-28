@@ -18,7 +18,7 @@ public:
 	double norm();
 	friend double real(Complex c);
 	friend double imag(Complex c);
-	friend double norm(Complex c);	
+	friend double norm(Complex c);
 	Complex operator+(Complex c);
 	Complex operator-(Complex c);
 	Complex operator*(Complex c);
