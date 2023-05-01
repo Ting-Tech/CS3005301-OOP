@@ -1,3 +1,10 @@
+/*
+Author: ¾G°·§Ê(B11130225@mail.ntust.edu.tw)
+Date: May 1, 2023
+Last Update: May 1, 2023
+Describition: Stores a prime number.
+*/
+
 #include "PrimeNumber.h"
 #include <iostream>
 
@@ -12,6 +19,5 @@ int main()
 	cout << p1.get() << endl;
 	cout << b.get() << endl;
 	cout << p2.get() << endl;
-	system("pause");
 	return 0;
 }
