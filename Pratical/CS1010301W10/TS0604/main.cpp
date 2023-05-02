@@ -30,7 +30,6 @@ int main() {
 
 	cout << A * C << endl; // Inconsistent
 
-	system("pause");
 	return 0;
 
 }

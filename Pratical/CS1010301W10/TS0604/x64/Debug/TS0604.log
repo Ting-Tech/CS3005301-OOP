@@ -1,0 +1,3 @@
+﻿  VecNf.cpp
+C:\Users\allen\GitHub\My Project\CS3005301-OOP\Pratical\CS1010301W10\TS0604\VecNf.cpp(35,28): warning C4267: 'return': 將 'size_t' 轉換為 'int'，資料可能遺失
+  TS0604.vcxproj -> C:\Users\allen\GitHub\My Project\CS3005301-OOP\Pratical\CS1010301W10\x64\Debug\TS0604.exe
