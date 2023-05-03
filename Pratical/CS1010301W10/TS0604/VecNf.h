@@ -1,3 +1,10 @@
+/*
+Author: ¾G°·§Ê(B11130225@mail.ntust.edu.tw)
+Date: May 3, 2023
+Last Update: May 3, 2023
+Describition: Store a multidimensional vector and implement some simple vector operations
+*/
+
 #pragma once
 #include<iostream>
 #include<vector>

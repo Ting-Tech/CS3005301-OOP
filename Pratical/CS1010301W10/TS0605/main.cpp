@@ -1,3 +1,10 @@
+/*
+Author: ¾G°·§Ê(B11130225@mail.ntust.edu.tw)
+Date: May 3, 2023
+Last Update: May 3, 2023
+Describition: Record the number of various body parts of them and generate diary observation logs.
+*/
+
 #include "Diary.h"
 #include "Creature.h"
 
