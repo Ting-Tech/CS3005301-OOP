@@ -1,6 +1,6 @@
 /*
 Author: ¾G°·§Ê(B11130225@mail.ntust.edu.tw)
-Date: May 1, 2023
+Date: May 10, 2023
 Last Update: May 10, 2023
 Describition: Finds the longest word that reverses to a different word.
 */
