@@ -1,7 +1,7 @@
 /*
 Author: ¾G°·§Ê(B11130225@mail.ntust.edu.tw)
-Date: May 10, 2023
-Last Update: May 10, 2023
+Date: May 15, 2023
+Last Update: May 15, 2023
 Describition: Translation machine.
 */
 
