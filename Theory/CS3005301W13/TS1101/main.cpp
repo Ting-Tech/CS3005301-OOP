@@ -1,3 +1,10 @@
+/*
+Author: ¾G°·§Ê(B11130225@mail.ntust.edu.tw)
+Date: May 24, 2023
+Last Update: May 24, 2023
+Describition: Class Inheritance
+*/
+
 #include "Document.h"
 #include "Email.h"
 #include "File.h"
