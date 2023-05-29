@@ -1,3 +1,10 @@
+/*
+Author: ¾G°·§Ê(B11130225@mail.ntust.edu.tw)
+Date: May 29, 2023
+Last Update: May 29, 2023
+Describition: Transfers students from each to another one.
+*/
+
 #include <iostream>
 #include "School.h"
 #include <string>
