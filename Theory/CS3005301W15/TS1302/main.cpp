@@ -1,3 +1,10 @@
+/*
+Author: ¾G°·§Ê(B11130225@mail.ntust.edu.tw)
+Date: June 5, 2023
+Last Update: June 5, 2023
+Describition: Absolute value
+*/
+
 #include "Template.h"
 #include <iostream>
 using namespace std;

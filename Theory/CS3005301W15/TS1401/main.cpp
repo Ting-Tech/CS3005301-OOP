@@ -1,3 +1,10 @@
+/*
+Author: ¾G°·§Ê(B11130225@mail.ntust.edu.tw)
+Date: June 5, 2023
+Last Update: June 5, 2023
+Describition: Exception handler
+*/
+
 #include <iostream>
 #include "Account.h"
 using namespace std;
