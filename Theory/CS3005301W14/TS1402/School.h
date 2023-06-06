@@ -7,7 +7,8 @@ Describition: Transfers students from each to another one.
 
 #pragma once
 #include <iostream>
-#include <string>
+#include <string>\
+
 
 class School
 {
