@@ -7,7 +7,7 @@ Describition: Transfers students from each to another one.
 
 #pragma once
 #include <iostream>
-#include <string>\
+#include <string>
 
 
 class School
@@ -60,6 +60,8 @@ public:
         return ostream;
     }
 };
+
+//A << school;
 
 class PrivateSchool : public School
 {

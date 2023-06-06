@@ -33,11 +33,13 @@ public:
     // Intent: Copy assignment operator
     // Pre: The document parameter is a valid Document object
     // Post: Copies the text from the input document to the current object's text and returns a reference to the current object
+    //a.operator=(b);
     inline Document& operator=(const Document& document)
     {
         this->text = document.text;
         return (*this);
     }
+
 
     // Intent: Set the text of the document
     // Pre: The text parameter contains the new text to set for the document
